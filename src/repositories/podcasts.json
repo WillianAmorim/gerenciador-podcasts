@@ -1,18 +1,18 @@
 [
         {
-            "podcastName": "Nome do Podcast 1",
+            "podcastName": "venus",
             "episodeName": "Nome do Episódio 1",
             "videoId": "aGsBPwMYJUM",
             "categories": ["Categoria 1", "Categoria 2"]
         },
         {
-            "podcastName": "Nome do Podcast 2",
+            "podcastName": "inteligencia ltda",
             "episodeName": "Nome do Episódio 2",
             "videoId": "aGsBPwMYJUM",
             "categories": ["Categoria 1", "Categoria 2"]
         },
         {
-            "podcastName": "Nome do Podcast 3",
+            "podcastName": "podcast 1",
             "episodeName": "Nome do Episódio 3",
             "videoId": "aGsBPwMYJUM",
             "categories": ["Categoria 1", "Categoria 2"]
