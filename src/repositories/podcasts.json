@@ -1,26 +1,39 @@
 [
-        {
-            "podcastName": "venus",
-            "episodeName": "Nome do Episódio 1",
-            "videoId": "aGsBPwMYJUM",
-            "categories": ["Categoria 1", "Categoria 2"]
-        },
-        {
-            "podcastName": "inteligencia ltda",
-            "episodeName": "Nome do Episódio 2",
-            "videoId": "aGsBPwMYJUM",
-            "categories": ["Categoria 1", "Categoria 2"]
-        },
-        {
-            "podcastName": "podcast 1",
-            "episodeName": "Nome do Episódio 3",
-            "videoId": "aGsBPwMYJUM",
-            "categories": ["Categoria 1", "Categoria 2"]
-        },
-        {
-            "podcastName": "flow",
-            "episodeName": "Willian e o Flow",
-            "videoId": "aGsBPwMYJUM",
-            "categories": ["Categoria 1", "Programação", "Categoria 2"]
-        }
-    ]
+    {
+        "podcastName": "venus",
+        "episodeName": "Nome do Episódio 1",
+        "videoId": "aGsBPwMYJUM",
+        "categories": [
+            "Categoria 1",
+            "Categoria 2"
+        ]
+    },
+    {
+        "podcastName": "inteligencia ltda",
+        "episodeName": "Nome do Episódio 2",
+        "videoId": "aGsBPwMYJUM",
+        "categories": [
+            "Categoria 1",
+            "Categoria 2"
+        ]
+    },
+    {
+        "podcastName": "podcast 1",
+        "episodeName": "Nome do Episódio 3",
+        "videoId": "aGsBPwMYJUM",
+        "categories": [
+            "Categoria 1",
+            "Categoria 2"
+        ]
+    },
+    {
+        "podcastName": "flow",
+        "episodeName": "Willian e o Flow",
+        "videoId": "aGsBPwMYJUM",
+        "categories": [
+            "Categoria 1",
+            "Programação",
+            "Categoria 2"
+        ]
+    }
+]
