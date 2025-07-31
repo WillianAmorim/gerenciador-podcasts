@@ -11,7 +11,7 @@ Podcasts feitos em vídeo
     - [saúde, fitness, mentalidade, humor]
 - Filtrar episódios por nome de podcast.
 
-## Como
+### Como
 
 ### Feature: Lista de Podcasts
 - **Lista de Podcasts**: Listar os episódios de podcasts em sessões de categorias.
